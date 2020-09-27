@@ -1,0 +1,138 @@
+
+
+.all{
+    width:1120px;
+    height: 500px;
+    margin: 50px auto;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+
+}
+h1 {
+    color: #ff5722;
+    text-align: center;
+}
+.all .first{
+    width: 98%;
+    margin: 25px 5px;
+}
+.first .blank {
+    display: inline-block;
+    width: 155px;
+    height: 40px;
+    background-color: #ffab91;
+}
+.first .full {
+    display: flex;
+    width: 77px;
+    height: 30px;
+    padding:5px  ;
+    margin: -44px 0 0 155px;
+    background-color: #ff5722;
+    color: #fff;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 11px;
+    line-height: 2.3;
+}
+.first .hh {
+    display: flex;
+    width: 633px;
+    height: 3px;
+    border: none;
+    background-color: #dfdfdf;
+    margin: -20px 0 0 242px;
+}
+.first .aaa {
+    display: flex;
+    width: 55px;
+    height: 25px;
+    padding:5px;
+    background-color: #dfdfdf;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 11px;
+    line-height: 2.3;
+    margin: -20px 0 0 875px;
+    color: #666;
+}
+.first .bbb {
+    display: flex;
+    width: 20px;
+    height: 25px;
+    padding:5px;
+    padding-left: 10px;
+    background-color:#ff5722; 
+    text-align:center;
+    font-size: 16px;
+    line-height: 1.8;
+    margin: -35px 0 0 940px;
+    color: #555;
+}
+.first .ss{
+    display: flex;
+    width: 125px;
+    height: 3px;
+    border: none;
+    background-color: #dfdfdf;
+    margin: -20px 0 0 975px;
+
+}
+
+.all .second {
+    width: 75%;
+    margin: 40px 156px;
+}
+.second .sub1 {
+    width: 98.5%;
+    height: 100px;
+    margin-bottom: 15px;
+    background-color: #eee;
+}
+.sub1 .text1 {
+    width: 5%;
+    padding: 23px 10px;
+    float: left;
+}
+.text1 h4 {
+   color:#666;
+   margin: 5px;
+   font-size: 18px;
+}
+.text1 p {
+    color:#666;
+   margin: 8px 5px;
+   font-size: 10px;
+}
+.sub1 .image {
+    width: 12%;
+    height: 98px;
+    margin: 0 ;
+    float: left;
+}
+.image img {
+    width: 100%;
+    height: 100%;
+}
+.sub1 .text2 {
+    width: 63%;
+    margin: 10px;
+    padding:  23px 5px;
+    float: left;
+}
+.text2 h4 {
+    color:#666;
+    margin: 0 ;
+    font-size: 16px;
+}
+.text2 ul {
+    list-style: none;
+    margin: 5px 0 0 -40px;
+}
+.text2 ul li {
+    display: inline;
+    color: #888;
+    font-size: 12px;
+    margin: 3px;
+
+}

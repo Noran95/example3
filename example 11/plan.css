@@ -1,0 +1,67 @@
+body{
+    font-family:"Open Sans" ,tahoma, arial;
+}
+h1 {
+    text-align: center;
+    color: black;
+}
+.all {
+    width: 850px;
+    height: 800px;
+    margin: 50px auto;
+    box-sizing: border-box;
+    text-align: center;
+}
+table {
+    width: 850px;
+    height: 600px;
+    border-collapse: collapse; 
+   
+}
+.header {
+    background-color: #fc5103;
+    color: #fff;
+    font-size: 16px;
+}
+.odd{
+    background-color: #f7f7f7 ;
+    
+}
+.even{
+    background-color: #fafafa ;
+
+}
+
+td {
+    border-right:1px solid #eee;
+}
+.main {
+    color: #888;
+    font-size: 14px;
+    font-weight: bold;
+}
+.minor {
+    font-size: 14px;
+    font-weight: bold;
+    color: #666;
+}
+.odd .sup {
+   display: inline-flex;
+    color:#333;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 0 0 0;
+}
+.odd span {
+    font-size: 35px;
+    color: #fc5103;
+    margin: 2px;  
+}
+.odd sub {
+    color:#888;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0 0 0 0;
+}
+
+

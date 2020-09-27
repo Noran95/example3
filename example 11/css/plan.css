@@ -1,0 +1,98 @@
+body{
+    font-family:"Open Sans" ,tahoma, arial;
+}
+h1 {
+    text-align: center;
+    color: #fc5103;
+}
+.all {
+    width: 850px;
+    height: 800px;
+    margin: 50px auto;
+    box-sizing: border-box;
+    text-align: center;
+}
+table {
+    width: 850px;
+    height: 600px;
+    border-collapse: collapse; 
+   
+}
+.header {
+    background-color: #fc5103;
+    color: #fff;
+    font-size: 16px;
+}
+.odd{
+    background-color: #f7f7f7 ;
+    
+}
+.even{
+    background-color: #fafafa ;
+
+}
+
+td {
+    border-right:1px solid #eee;
+}
+.main {
+    color: #888;
+    font-size: 14px;
+    font-weight: bold;
+}
+.minor {
+    font-size: 12px;
+    font-weight: bold;
+    color: #666;
+}
+.odd .sup {
+    width: 10px;
+    height: 10px;
+    float: left;
+}
+.odd .sup h4 {
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px 0 0 45px;
+    color: #555;
+    
+}
+.odd span {
+    font-size: 38px;
+    color: #fc5103;
+    margin: 0;
+}
+.odd .sub {
+    width: 10px;
+    height: 10px;
+    float: right;
+}
+.odd .sub h4 {
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px 25px 0 -45px;
+    color: #555;
+   
+}
+.odd .sub h3 {
+    display: inline-block;
+    font-size: 12px;
+    margin: 8px 25px 0 -41px;
+    color: #888;
+}
+
+.even button {
+    width: 80px;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color:#fff;
+    font-size: 14px;
+    font-weight: bold;
+}
+.even .orinage {
+    background-color: #fc5103;
+}
+
+

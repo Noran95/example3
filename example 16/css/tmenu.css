@@ -1,0 +1,142 @@
+body {
+    font-family: arial,tahoma;
+}
+h1{
+    text-align: center;
+    color: rgb(9, 115, 254);
+}
+.all {
+    width: 690px;
+    height: 700px;
+    margin: 50px auto;
+    border: 2px solid #ddd;
+    padding: 3px;
+    background-color: #f2eef6;
+    background-clip: content-box;
+}
+.all .first {
+    width: 90%;
+    margin: 20px 35px ;
+   
+
+}
+.first h4 {
+    margin: 10px 15px;
+    text-align: right;
+    color: rgb(9, 115, 254);
+    font-size: 22px;
+
+}
+.first .sub1 {
+    width: 93%;
+    padding: 10px 15px;
+    border-radius: 15px;
+    background-color: rgb(227, 226, 232)
+
+}
+.sub1 .fa-lg {
+    font-size: 30px;
+    line-height: .75em;
+    vertical-align: -7%;
+    color: #888;
+}
+
+.sub1 input[type="search"] {
+    width: 250px;
+    font-size: 25px;
+    border: none;
+    background: none;
+    color: #888;
+    margin: 5px 8px;
+}
+ .all .second {
+    width: 91%;
+    height: 300px;
+    margin: 20px 32px ;
+   
+}
+.second .sub2 {
+    width: 40%;
+    background-color: #fff;
+    margin: 10px;
+    padding: 14px 20px;
+    border-radius: 10px;
+    float: left;
+}
+.sub2 .imge {
+    width: 21%;
+    height: 55px;
+    margin: 1px;
+    margin-bottom: 20px;
+}
+.sub2 .imge img {
+   width: 100%;
+   height: 100%;
+}
+.sub2 h3 {
+    display: inline-block;
+    float: right;
+    font-size: 30px;
+    margin: -75px 0 0 0;
+}
+.sub2 span {
+    font-size: 18px;
+    font-weight: bold ;
+    color: #999;
+    margin: 8px;
+}
+.all .third {
+    width: 90%;
+    margin: 20px 35px ;
+}
+.third h3 {
+    margin: 10px;
+}
+.third .sub3 {
+    width: 93%;
+    padding: 10px 15px 30px;
+    border-radius: 15px;
+    background-color: #fff;
+
+}
+.a-list, .b-list {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    padding: 10px;
+    margin:5px 0 -30px ;;
+    text-align: center;
+    color: #fff;
+    line-height: 1.5;
+    font-size: 20px;
+
+
+}
+.a-list { background-color: rgb(24, 182, 87);}
+.b-list { background-color: #ffc700;}
+.sub3 span {
+    display: inline-block;
+    margin-left:  60px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.sub3 hr {
+    width: 538px;
+    height: 1px;
+    border: none;
+    margin: 15px 55px;
+    margin-top: 25px;
+    background-color: #ddd;
+
+}
+.sub3 button{
+    float: right;
+    width: 75px;
+    height: 25px;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #999;
+    background-color: #fff;
+    border: none;
+}

@@ -1,0 +1,155 @@
+body{
+    font-family: tahoma,arial;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 235, 0);
+}
+.all{
+    width:1130px;
+    height: 450px;
+    margin: 50px auto;
+    padding: 3px;
+    border: 1px solid #ddd;
+    background-image: url('../images/12.jpg');
+    background-clip: content-box;
+    background-size: cover;
+    position: relative;
+}
+.all .sub1 {
+    width: 130px;
+    height: 40px ;
+    padding :8px;
+    text-align: center;
+    background-color: rgb(82, 90, 98);
+    color: #fff;
+    margin: 45px 0px 0 100px;
+}
+.all .sub1 p{
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 0.5;
+}
+.all .sub2 {
+    width: 190px;
+    height: 40px ;
+    padding :8px;
+    text-align: center;
+    background-color: #fff;
+    color:  rgb(82, 90, 98);
+    margin: 1px 0 0 99px;
+    position: absolute;
+    z-index: 4;
+    
+}
+.all .sub2 p{
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 0.5;
+}
+.all .sub3 {
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+    background: rgb(82, 90, 98);
+    color:#fff;
+    position: absolute;
+    top: 130px;
+    left: 230px;
+    z-index: 3;
+   
+}
+.all .sub3 p{
+    display: inline-block;
+    font-size: 110px;
+    line-height: 0.5;
+    margin: 40px 0 0 78px;
+}
+.all .sub4 {
+    width:280px;
+    height: 280px;
+    border-radius: 50%;
+    background: rgb(255, 235, 0);
+    color:rgb(82, 90, 98);
+    position: absolute;
+    top: 90px;
+    left: 374px;
+    z-index: 2;
+}
+.all .sub4 p{
+    display: inline-block;
+    font-size: 135px;
+    line-height: 0.5;
+    margin: 70px 0 0 70px;
+}
+.all .sub5 {
+    width:225px;
+    height: 225px;
+    border-radius: 50%;
+    background: rgb(82, 90, 98);
+    color:#fff;
+    position: absolute;
+    top: 150px;
+    left: 594px;
+    z-index: 1;
+    
+}
+.all .sub5 p{
+    display: inline-block;
+    font-size: 100px;
+    line-height: 0.5;
+    margin: 55px 0 0 70px;
+}
+.all .sub6 {
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+    background: rgb(255, 235, 0);
+    color:rgb(82, 90, 98);
+    position: absolute;
+    top: 75px;
+    left: 760px;
+    z-index: 2;
+}
+.all .sub6 p{
+    display: inline-block;
+    font-size: 110px;
+    line-height: 0.5;
+    margin: 50px 0 0 70px;
+   
+}
+.all .sub7 {
+    width: 190px;
+    height: 40px ;
+    padding :8px;
+    text-align: center;
+    background-color: #fff;
+    color:  rgb(82, 90, 98);
+    position: absolute;
+    top: 245px;
+    left: 807px;
+    z-index: 3;
+    
+}
+.all .sub7 p{
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 0.5;
+}
+.all .sub8 {
+    width: 190px;
+    height: 40px ;
+    padding :8px;
+    text-align: center;
+    background: rgb(255, 235, 0);
+    color:  rgb(82, 90, 98);
+    position: absolute;
+    top: 301px;
+    left: 760px;
+    z-index: 3;
+}
+.all .sub8 p{
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 0.5;
+}

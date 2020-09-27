@@ -1,0 +1,220 @@
+body{
+    font-family: tahoma,arial;
+}
+.all{
+    width: 1100px;
+    height: 785px;
+    margin: 50px auto;
+    padding: 3px;
+    background-color:#EFF0F2;
+    background-clip: content-box;
+    border: 1px solid #ddd;
+}
+.all .list {
+    width: 92.5%;
+    background-color: #fff;
+    padding: 20px;
+    margin: 22px;
+    border-radius: 5px;
+}
+.container {
+    width: 95%;
+}
+.list h4 {
+    display: inline-block;
+    margin: 10px;
+}
+
+
+.list .x {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: #ddd;
+    float: right;
+    margin: 18px -25px 0 30px;
+}
+
+
+.list form {
+    margin: 10px;
+}
+.list form input {
+    width: 200px;
+    height: 35px;
+    padding: 10px;
+    border: none;
+    background-color: #f0f1f3;
+    border-radius: 3px;
+    text-decoration-style: initial;
+}
+.list form input[type="submit"] { 
+    width: 100px;
+    background-color: rgb(115, 36, 160);
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+}
+.list form .aaa { width: 170px;}
+.list form .bbb { width: 370px;}
+.list form .ccc { width: 270px;}
+.list .one {
+   width: 98%;
+
+}
+.list .one .base {
+    list-style: none;
+    margin: 20px 0px 12px -30px;
+}
+
+.list .one .base li {
+    display: inline;
+    margin: 10px;
+    color: #666;
+    font-size: 16px;
+    font-weight: 600;
+}
+.one .base li .sss {
+    width: 18px;
+    height: 18px;
+    border-radius: 3px;
+    margin: -1px -20px 0 0px;
+    background: none;
+    border: 2px solid #ddd;
+    float: left;
+
+}
+.one .thick {
+    width: 955px;
+    height: 3px;
+    border: none;
+    background: #ddd;
+    margin: 10px;
+}
+.one ul{
+    list-style: none;
+    margin: 30px 0px 12px -30px;
+  
+}
+.one ul li{
+    display: inline;
+    margin: 15px ;
+    color: #888;
+    font-size: 15px; 
+}
+.one ul .food {width: 100px; margin: 0 8px ;display: inline-block}
+.one ul .name {width: 100px; margin: 0 8px ;display: inline-block}
+.one ul .price {width: 70px; margin: 0 8px ;display: inline-block}
+.one ul .phone {width: 90px; margin: 0 8px;display: inline-block}
+.one ul li .sss {
+    width: 18px;
+    height: 18px;
+    border-radius: 3px;
+    margin: 5px -20px 0 0px;
+    background: none;
+    border: 2px solid #ddd;
+    float: left;
+}
+.one ul li img {
+    width: 50px ;
+    height: 50px ;
+    margin: -15px 0 -15px -10px;
+}
+.one ul li .nnn {
+    display: inline-block;
+    width: 30px ;
+    height: 18px;
+    padding: 5px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0 15px 0 40px;
+
+}
+.one ul li button {
+    width: 100px ;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #fff;
+    background-color: rgb(44, 229, 192);
+    margin: 0 -12 0 20px;
+}
+.one ul li .ppp {
+    background-color: rgb(255, 183, 77);
+}
+.one ul li .mmm {
+    list-style: none ;
+    float: right;
+    margin: -30px 0 0 0;
+}
+.one ul li .mmm li {
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: #aaa;
+    margin: 0;
+}
+.one hr {
+    width: 955px;
+    height: 1px;
+    border: none;
+    background: #ddd;
+    margin: 10px;
+}
+.list .two{
+    width: 98%;
+    height: 80px;
+    margin:  10px;
+}
+.two p {
+    color: #888;
+    float: left;
+    margin: 0 0 0 0;
+    margin-top: 25px;
+
+}
+.two .cont{
+    width: 40%;
+    margin-right: -20px;
+    float: right;
+}
+.two ul {
+    list-style: none;
+    margin: 15px 0 0 0;
+    text-align: center;
+}
+.two ul li {
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    text-align: center;
+    padding: 5px;
+    border: 2px solid #ddd;;
+    border-radius: 5px;
+    color: #888;
+    font-size: 18px;
+    margin: 3px;
+}
+.two ul .act {
+    background-color: rgb(75, 52, 158) ;
+    color: #fff;
+    width: 25px;
+    height: 25px;
+    margin: 2px;
+    border: none;
+}
+.two .cont span {
+    color:#888;
+    float: left;
+    margin: 25px -60px 0 40px;
+
+}
+.two .cont .ttt {
+    margin: -30px 0 0 322px;;
+}
+
